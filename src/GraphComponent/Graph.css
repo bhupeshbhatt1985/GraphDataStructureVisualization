@@ -1,0 +1,68 @@
+.content-body{
+    width:80%;
+    margin: auto;
+   
+}
+.top{
+    padding:10px;
+}
+.content{
+    padding:10px;
+    margin-top:100px;
+}
+.btn{
+    background-color: aliceblue;
+    color: green;
+    border: 1px solid green;
+    margin-right: 20px;
+}
+.node-area
+{
+    clear: both;
+    background-color: aliceblue;
+    color: green;
+   
+}
+.node{
+    border: 1px black solid;
+    width: 10px;
+    /* height: 10px; */
+    padding: 10px;
+    margin: auto;
+    /* float: left; */
+    /* margin-left: 150px; */
+    /* margin-top: 10px; */
+    display: inline-block;
+    margin: auto;
+    margin-left: 100px;
+}
+.line{
+    stroke-width:2px;
+    stroke:rgb(0,0,0);
+}
+.node-seprator{
+    text-align: center;
+    padding: 20px;
+}
+.svg{
+    position: absolute;
+    top: 100px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+.newEdgeForm{
+    display: inline;
+}
+.active{
+    background-color: blue;
+}
+.outerNode{
+    display: inline;
+    
+}
+
+.txt
+{
+    width:30px;
+}
